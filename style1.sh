@@ -5,3 +5,5 @@ var c=55
 var bi=19
 var c=5
 var ajith=45
+var vignesh=222
+var y=1

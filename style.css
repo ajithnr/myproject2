@@ -4,3 +4,6 @@ body
 }
 h1
 {border-style: hidden;}
+h2{ 
+    background-color: rgb(200, 220, 20);
+}
